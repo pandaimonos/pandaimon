@@ -6,12 +6,14 @@
 
 **Status:** In Progress
 
-**Objective:** Create a working prototype that demonstrates the core Pandaimon experience.
+**Objective:** Ship v0.0 — SMS accountability loop that tests the core bet.
 
 **Success criteria:**
-- [ ] Core game loop functional
-- [ ] User can complete a quest
-- [ ] Agent learns from user actions
+- [ ] 10 users texting quests
+- [ ] 5+ quests completed
+- [ ] Qualitative signal: "I wouldn't have done this without it"
+
+**Spec:** `hero/products/quest-mvp.md`
 
 ---
 
@@ -28,4 +30,4 @@
 
 ---
 
-*Updated: 2026-01-26*
+*Updated: 2026-01-25*

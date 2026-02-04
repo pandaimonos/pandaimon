@@ -109,7 +109,7 @@ Solo founder — finite hours, no team
 
 ## Blueprint
 
-→ `vpguide/ventures/pandaimon/blueprint.md`
+→ `blueprint.md`
 
 ---
 
