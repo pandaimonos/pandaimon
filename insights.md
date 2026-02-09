@@ -31,3 +31,43 @@ Agents change everything. A daimon that works overnight, reads your patterns, bu
 The loading screen music hits. You open the app. Your daimon greets you. Your quest is waiting.
 
 **It's all possible now.**
+
+---
+
+## 2026-02-09 — Do Things That Don't Scale (Under the Pandaimon Brand)
+
+**Catalysts:**
+- Maven blocked on Chelsea for weeks; enterprise pipeline cold (Sprinter dragging, Conrad/Caitlin ghosted)
+- SimpleClaw comp: 18 y/o took an OpenClaw wrapper to $7K MRR in 3 days
+- Boil the Oceans (Gary Tan): "These aren't rhetorical questions anymore. They're engineering problems with paths to solutions."
+- Realization: last year's revenue came from Stanford network, not cold pipeline or rented platforms
+
+**The Insight:**
+
+Stop renting platforms (Maven) and twisting into corporate pretzels (L&D budgets, enterprise sales cycles). Run the cohort yourself, under the Pandaimon brand, with your own network.
+
+The Stanford cohort IS the "do things that don't scale" phase of Pandaimon:
+- Same curriculum ("Ship Your First AI Agent"), your platform
+- Students build on Pandaimon → first real users + testers
+- Revenue is 100% yours, no split, no gatekeeping
+- Pandaimon quest system improves service delivery + impact
+- Battle-tested curriculum can later adapt for Maven (scaled version)
+
+**The collapse (one move serves all quests):**
+
+| Quest | How the cohort serves it |
+|-------|-------------------------|
+| **Ignition** | Forces systematization of curriculum (artifact) |
+| **Ship Pandaimon** | Students = first users + testers + ICP |
+| **Default Alive** | 10 seats × $500–$1K = tripwire cleared |
+
+**The sequence:**
+1. Fill before India trip (DMs only — Stanford Venture Studio, classmates, adjacent classes)
+2. Deliver post-return (March)
+3. Adapt for Maven later if desired
+
+**Principle:** Own the room, don't rent it. Sell now, deliver later. The India trip is a feature (content), not a blocker.
+
+---
+
+*See also:* `actors/daimon/paul/resources/yc/essays/01_Do_Things_That_Dont_Scale.md` · `memex/pages/boil-the-oceans-gary-tan.md`
