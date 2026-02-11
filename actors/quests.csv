@@ -1,0 +1,2 @@
+timestamp,hero_name,hero_email,quest_title,quest_goal,quest_why_now,quest_acceptance,first_moves,dragon,status
+2026-02-11T20:29:01.172Z,Test Hero,test@example.com,Test Quest,Verify the endpoint works,Building it right now,Response returns ok,Submit test request | Check response | Celebrate,The Bug That Blocks Deployment,New
