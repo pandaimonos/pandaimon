@@ -1,1 +1,2 @@
 timestamp,hero_name,hero_email,quest_title,quest_goal,quest_why_now,quest_acceptance,first_moves,dragon,status
+2026-02-12T23:17:07.065Z,Test Hero,hero@example.com,Launch My First AI Tool,Publish a working AI-powered web app that at least 10 real users try.,AI tools are moving fast and I don’t want to stay on the sidelines while others build.,The web app is live and I can show 10 unique users who have tested it.,Define the specific problem the tool solves | Sketch the simplest possible version | Set up a basic landing page,Overthinking and never shipping,New
