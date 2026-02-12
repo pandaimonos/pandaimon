@@ -1,2 +1,1 @@
 timestamp,hero_name,hero_email,quest_title,quest_goal,quest_why_now,quest_acceptance,first_moves,dragon,status
-2026-02-12T20:42:52.145Z,API Caller,api.caller@example.com,Integrate Pandaimon API,The submitQuest operation is successfully called and returns a confirmation response.,We need to verify the integration works before building further automation.,The API responds with a success status and confirmation message.,Review submitQuest schema | Send test payload to pandaimon.com | Log and verify the response,Uncertainty about required parameters,New
