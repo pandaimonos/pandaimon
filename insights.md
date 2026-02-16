@@ -1,5 +1,21 @@
 # Pandaimon — Insights & Dreams
 
+## 2026-02-16 — Same Seed, Different Velocity
+
+The Ignition Spine and the customer product aren't two things. They're the same seed at different stages of evolution.
+
+Like QT45 — the 45-nucleotide self-replicator that bootstrapped life — the Pandaimon agent needs to be small enough to start (DNA + 1 cron + 1 channel), with a loop that closes (check-in → act → close → memory → next check-in). The hero's pace determines evolution, not the architecture.
+
+VP plants the same seed as a college kid. The difference is velocity, not structure.
+
+This collapses Ignition + Ship into one track. We're in the agent-building business, not the education business. The customer gets THE AGENT, not a course.
+
+**Principle:** Don't build the Rolls Royce then strip it down. Plant the seed then grow up.
+
+*See also:* `memex/pages/life-minimal-self-replication.md` · `memex/pages/choose-the-wedge.md`
+
+---
+
 ## 2026-02-07: The Game Dream
 
 Last night VP dreamed about designing a full immersive game. Choosing the loading screen. Selecting the music that plays on launch. Designing character elements. It was vivid, detailed, and exciting.
