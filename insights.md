@@ -34,6 +34,44 @@ The loading screen music hits. You open the app. Your daimon greets you. Your qu
 
 ---
 
+## 2026-02-15 — Zero Completions Signal
+
+**Context:** Quest Finder GPT shipped (Block 077). Sent to all 16 waitlist subscribers via threaded email, text, and WhatsApp over Feb 12-14. As of Feb 15: zero confirmed quest completions.
+
+**Possible reads:**
+- **Friction:** Drop-off somewhere in the GPT flow (too long? Airtable submit step feels disconnected?)
+- **Motivation:** Cold waitlist subscribers aren't motivated enough to spend 10 minutes with a chatbot they didn't ask for
+- **Audience mismatch:** These 16 may not be the right wedge audience
+- **Timing:** Some people are slow — but 0/16 in 3 days is data, not noise
+
+**What we don't know yet:**
+- Where people dropped off (clicked link? started conversation? got partway through?)
+- Whether the Quest Card / submit experience works end-to-end
+- Whether a warmer audience (e.g., college students met in person) would behave differently
+
+**Action:** Follow up with subscribers. Ask directly. Instrument if possible.
+
+**Principle:** The silence is the signal. Don't explain it away — investigate it.
+
+---
+
+## 2026-02-15 — College-Age Kids as Wedge Demographic
+
+**Catalyst:** UM dinner (8 students) + AI Panel + Hult Prize judging. Two days immersed with college-age students.
+
+**Signal:** Something clicked. These kids are at a formative moment — high energy, searching for direction, open to AI, no legacy workflows to unlearn. The "quest" metaphor maps naturally to their life stage (career, projects, identity).
+
+**Connects to:** `memex/pages/choose-the-wedge.md` — "Life/Career Nav for college students: high volume, formative moment, habit potential."
+
+**What we don't know yet:**
+- Specific pain points (what quests would they actually commit to?)
+- Willingness to pay (or is this freemium/growth wedge?)
+- Whether the Quest Finder resonates with them differently than cold waitlist adults
+
+**Action:** Create persona. Follow up with UM students. Do discovery. Test Quest Finder with this demographic.
+
+---
+
 ## 2026-02-09 — Do Things That Don't Scale (Under the Pandaimon Brand)
 
 **Catalysts:**
