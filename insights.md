@@ -1,5 +1,19 @@
 # Pandaimon — Insights & Dreams
 
+## 2026-02-25 — Δ+10 Is a Human-Assisted Ceiling
+
+**Context:** First week of serious block logging. Every day that goes deep hits exhaustion around Δ+10 — even with daimon assistance and 2-4x Power Up ratios.
+
+**The insight:** +10 Δ/day is a human-assisted ceiling. The hero is still the bottleneck for every block — even when the daimons compress 12h of solo work into 3h, the human must be present, steering, deciding. The Power Up multiplier raises capacity inside the session but doesn't escape the session.
+
+**What ignition changes:** Overnight blocks run without VP in the chair. The morning board surfaces them. VP grades in 15 min. The effective daily output becomes session output + overnight output — the ceiling lifts without the hero working harder.
+
+**The test:** Once the night shift is running, does the morning feel lighter? Does Δ/week grow without proportional exhaustion growth? That's the ignition signal.
+
+**Connects to:** Intelligence Ignition (`memex/pages/intelligence-ignition.md`), Morning Board acceptance criteria (`vpguide/2026/q1.md`)
+
+---
+
 ## 2026-02-17 — The $1M Math Is Simple
 
 $1K widget × 1,000 customers = $1M.
