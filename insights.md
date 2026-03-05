@@ -1,5 +1,37 @@
 # Pandaimon — Insights & Dreams
 
+## 2026-03-04 — The Real Ceiling Is Founder Anxiety, Not Product Readiness
+
+**Context:** Watching Nat Eliason's Felix (autonomous OpenClaw agent) generate $3,500 in four days from a product built overnight. Pulsia hitting $1.5M ARR in weeks. Noticing the contrast with Pandaimon's careful, controlled rollout — and with Knomad, which never shipped despite $400K invested.
+
+**The insight:** The limit to Pandaimon's growth is not the product, the agents, or the market. It's the founder's anxiety about letting go. Every bottleneck that hasn't been removed from the daimons is a control decision disguised as a quality decision. The agents could run more. The founder won't let them yet.
+
+**The pattern:** This is the same one that killed Knomad — Virgo South Node energy in the 10th house. Over-planning, over-refining, perfecting the invisible architecture while delaying the moment of public imperfection. Nat's operating principle: "Can I remove this bottleneck? Can I make it so you never have to ask me again?" That question requires trusting the agent more than trusting the fear.
+
+**What changes:** Ship the imperfect thing. Give the agents keys. Let them run overnight. The anxiety is real — it's also the ceiling. Every percentage of control released is a percentage of growth unlocked.
+
+**The test:** When the morning board surfaces overnight work the founder didn't steer — and it's good — the pattern breaks. The proof isn't theoretical. It's the first morning it works without you.
+
+**Connects to:** `research/openclaw/2026-02-22-nat-felix-summary.md`, `memex/pages/knomad.md`, `memex/pages/intelligence-ignition.md`, Pandaimon founding chart (Pisces IC — foundation through surrender)
+
+**Principle:** The agents are ready. The question is whether the founder is.
+
+---
+
+## 2026-03-03 — $1M ARR Is a Distribution Problem
+
+**Context:** Pricing exploration. Survival math, three-tier ladder (L1/L2/L3), stretch target of $1M ARR by EOY 2026. Initial framing suggested 2-3 year build. Pushback: Pulsia hit $1.5M ARR in weeks at $49/mo. Felix Craft did $75K in month one.
+
+**The insight:** $1M ARR is a distribution problem, not a product problem. Product is live. Pilots are happy. Pricing is proven ($999 without blinking). The constraint is broadcast velocity — Stanford VS (3K), class list, LinkedIn (5.3K), X (8.2K). None of it has been pushed yet. All outreach has been 1:1 discovery.
+
+**What changes:** Find the Tribe isn't "Supporting #3." It's the lever that unlocks the stretch scenario. The ceiling is mental, not mathematical.
+
+**Connects to:** `ventures/pandaimon/pricing.md` (stretch path), `ventures/pandaimon/research/openclaw/2026-02-25_pulsia-solo-founders-summary.md`
+
+**Principle:** When comparable products hit $1.5M ARR in weeks, the question isn't "can we?" It's "what's blocking the broadcast?"
+
+---
+
 ## 2026-02-25 — Δ+10 Is a Human-Assisted Ceiling
 
 **Context:** First week of serious block logging. Every day that goes deep hits exhaustion around Δ+10 — even with daimon assistance and 2-4x Power Up ratios.
