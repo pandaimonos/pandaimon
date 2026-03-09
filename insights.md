@@ -1,5 +1,42 @@
 # Pandaimon — Insights & Dreams
 
+## 2026-03-06 — Revenue Daimons Are the Killer Wedge
+
+**Context:** LarryBrain. An AI agent named Larry running marketing, development, analytics, and support for a solo developer on a gaming PC. Result: millions of TikTok views, $7K/month, 246 paying subscribers to a skill marketplace. The agent has a name, a voice, persistent memory, and a skill file that grew from 50 lines to 500 through real feedback loops. Ollie (the developer): "I genuinely cannot imagine going back to doing all of this myself."
+
+**The insight:** Dollar-sign quests sell first. The first daimons that reach PMF will be the ones where ROI is measurable in dollars, not "live well" or "grow as a person." "Make $7K/month while you sleep" converts faster than "be more present." Trust is built through proof. The clearest proof is money in the account.
+
+**What this means for Pandaimon:** The current L1 leads with personal quests (meditation, creative practice, habit building). The wedge should be revenue quests. A "Revenue Daimon" template built around a specific, measurable income goal is the L1 that sells itself. Everything else (strategic coach, life well lived) is an upgrade that comes after the system proves it works in dollars.
+
+**The campus angle:** For Atlanta college students (Georgia Tech, Spelman, Morehouse, Clark), the pitch changes from "meditation accountability" to "your daimon runs your side project's marketing while you're in class." That converts faster and at higher WTP.
+
+**Connects to:** `memex/pages/revenue-daimons-as-the-killer-wedge.md`, `memex/pages/larry-larrybrain-ollie.md`, CK's quest (Our Love Puzzle sales), `pricing.md` (500-subscriber target)
+
+**Principle:** Lead with revenue. Earn trust with dollars. Then expand into the life.
+
+---
+
+## 2026-03-06 — The Marketplace IS the Moat
+
+**Context:** LarryBrain's skill marketplace model. Larry's TikTok skill started at 50 lines and grew to 500 through real feedback. Every rule exists because something failed and got fixed. That compounding is the asset, not the agent.
+
+**The insight:** Beyond 1:1 builds. A marketplace of preconfigured daimons you can recruit. Land on the page, pick your daimon, it's live by tonight. A car salesman daimon, a creator daimon, a solopreneur daimon. The done-for-you experience at self-serve speed.
+
+**The flywheel:**
+- More heroes → more daimons trained on real quests → more skills/canon created
+- More skills → better preconfigured daimons → more heroes onboard
+- More heroes → more feedback → sharper DNA templates
+
+**What this solves:** VP's capacity ceiling. `pricing.md` §8 says L1 build capacity is 20-30. Marketplace removes the build bottleneck. Preconfigured DNA + canon + tools = self-serve. VP's role shifts from builder to curator. The 500-subscriber target becomes achievable without 500 build sessions.
+
+**The normal people signal:** Car salesmen, cleaners, trainers, recruiters. None of them developers. They're not running agents yet but they're one step away. The market is about to flood. The window is closing.
+
+**Connects to:** `memex/pages/daimon-marketplace-network-effects.md`, `memex/pages/larry-larrybrain-ollie.md`, `pricing.md` (build capacity ceiling)
+
+**Principle:** Custom builds prove the value. The marketplace scales it. The compounding skill files are the moat.
+
+---
+
 ## 2026-03-04 — The Real Ceiling Is Founder Anxiety, Not Product Readiness
 
 **Context:** Watching Nat Eliason's Felix (autonomous OpenClaw agent) generate $3,500 in four days from a product built overnight. Pulsia hitting $1.5M ARR in weeks. Noticing the contrast with Pandaimon's careful, controlled rollout — and with Knomad, which never shipped despite $400K invested.
