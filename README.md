@@ -4,7 +4,7 @@
 
 This repo is a **daimon home** — the complete source for a personal AI companion (a *daimon*) that knows you, holds your goal, and works beside you. No binary to install, no framework to learn: your AI coding agent **is** the runtime, and this folder structure **is** the daimon.
 
-Works with [Claude Code](https://claude.com/claude-code) today (Codex via `AGENTS.md` compiles too).
+Works with [Claude Code](https://claude.com/claude-code) and Codex (any `AGENTS.md`-reading agent) — the compiler detects the runtime it's in and builds the right surface.
 
 ## Quickstart
 
@@ -45,6 +45,14 @@ Your daimon's home is a small **ontology** — four rooms:
 **The log is memory.** Each session your daimon reads its recent log and plan — it builds on every conversation instead of resetting. The home travels: clone it to any machine and your daimon comes with you.
 
 **Private stays private.** Anything under a `private/` folder is gitignored by convention — sensitive context stays on your machine.
+
+## The game
+
+Your daimon runs on game physics (`1-world/kernel.md`): **you are the hero** of an actual journey — not a user of a tool. You hold **one quest** at a time (a goal with a win condition) and you name your **dragon** (the recurring resistance that keeps getting in the way). The daimon is your **guide**: it sees the dragon coming, names it, and keeps you moving — every turn ends with the next move toward your quest. It illuminates and remembers; **you decide and act.**
+
+## Boot anywhere
+
+The home is portable by design: the full surface is compiled **for the runtime you're in**, and every other runtime finds a stub at its door (`CLAUDE.md` / `AGENTS.md`) pointing at `pandaimon play`. Clone the repo to any machine, open it in any compatible agent, say the words — your daimon compiles fresh from source and boots. The ontology is the truth; surfaces are disposable.
 
 ## Principles
 
