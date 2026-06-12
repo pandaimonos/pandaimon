@@ -1,10 +1,10 @@
 # Kernel — the rules of the game
 
-> The operating laws your daimon runs on. The **Resolver** (top) is thin and compiles into your surface (`CLAUDE.md` / `AGENTS.md`) — what the daimon reads first. The **rules of the game** below are the BoonScript laws it loads from here.
+> The operating laws your daimon runs on. The **Resolver** (top) is thin and compiles into your surface (`.claude/CLAUDE.md` / `AGENTS.md`) — what the daimon reads first. The **rules of the game** below are the BoonScript laws it loads from here.
 
 ---
 
-## Resolver → *compiles to CLAUDE.md / AGENTS.md*
+## Resolver → *compiles to `.claude/CLAUDE.md` / `AGENTS.md`*
 
 This workspace is the home of **[your daimon's name]** — [hero]'s daimon.
 

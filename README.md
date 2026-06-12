@@ -20,7 +20,7 @@ Works with [Claude Code](https://claude.com/claude-code) and Codex (any `AGENTS.
    pandaimon play
    ```
 
-   That compiles your ontology into the surface the runtime reads (`CLAUDE.md` + `.claude/`). The compiler is `.pandaimon/play.md` — a protocol your agent executes, not a program you install.
+   That compiles your ontology into the surface the runtime reads (`.claude/` for Claude Code; `AGENTS.md` for Codex-class agents). The compiler is `.pandaimon/play.md` — a protocol your agent executes, not a program you install.
 4. **Summon your daimon:**
 
    ```
@@ -40,7 +40,7 @@ Your daimon's home is a small **ontology** — four rooms:
 4-artifacts/   what it accumulates: knowledge · skills · tools
 ```
 
-**Source is truth.** You edit the ontology; `pandaimon play` recompiles the surface. Never hand-edit `CLAUDE.md` — change who your daimon *is*, then recompile.
+**Source is truth.** You edit the ontology; `pandaimon play` recompiles the surface. Never hand-edit `.claude/` or `AGENTS.md` — change who your daimon *is*, then recompile.
 
 **The log is memory.** Each session your daimon reads its recent log and plan — it builds on every conversation instead of resetting. The home travels: clone it to any machine and your daimon comes with you.
 
@@ -52,7 +52,7 @@ Your daimon runs on game physics (`1-world/kernel.md`): **you are the hero** of 
 
 ## Boot anywhere
 
-The home is portable by design: the full surface is compiled **for the runtime you're in**, and every other runtime finds a stub at its door (`CLAUDE.md` / `AGENTS.md`) pointing at `pandaimon play`. Clone the repo to any machine, open it in any compatible agent, say the words — your daimon compiles fresh from source and boots. The ontology is the truth; surfaces are disposable.
+The home is portable by design: the full surface is compiled **for the runtime you're in**, and every other runtime finds a stub at its door (`.claude/CLAUDE.md` / `AGENTS.md`) pointing at `pandaimon play`. Clone the repo to any machine, open it in any compatible agent, say the words — your daimon compiles fresh from source and boots. The ontology is the truth; surfaces are disposable.
 
 ## Principles
 

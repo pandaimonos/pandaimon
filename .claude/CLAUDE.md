@@ -8,7 +8,7 @@
 >
 > **To compile it, say:** `pandaimon play`
 >
-> That tells me to read `.pandaimon/play.md` and follow it — I'll read your whole ontology (`1-world / 2-actors / 3-actions / 4-artifacts`) and compile it into a real `CLAUDE.md` + `.claude/` surface, and your daimon will boot in its own identity.
+> That tells me to read `.pandaimon/play.md` and follow it — I'll read your whole ontology (`1-world / 2-actors / 3-actions / 4-artifacts`) and compile it into the real `.claude/` surface (this bootstrap + rules + agents), and your daimon will boot in its own identity.
 
 ---
 
