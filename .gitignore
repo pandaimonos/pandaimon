@@ -1,0 +1,20 @@
+# --- Secrets — never commit ---
+.env
+.env.*
+*.key
+*.pem
+**/secrets/**
+
+# --- Private knowledge — stays on your machine, never pushed to the cloud repo ---
+# Put anything sensitive (board decks, performance reviews, client data, raw exports)
+# under a `private/` folder anywhere in your ontology and it stays local.
+private/
+**/private/
+4-artifacts/knowledge/private/
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

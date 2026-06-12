@@ -1,0 +1,15 @@
+# CLAUDE.md
+
+> **Your daimon isn't compiled yet.**
+>
+> This repo is your daimon's **world** (the source) — but the surface Claude Code reads hasn't been built from it yet.
+>
+> **To compile it, say:** `pandaimon play`
+>
+> That tells me to read `.pandaimon/play.md` and follow it — I'll read your whole ontology (`1-world / 2-actors / 3-actions / 4-artifacts`) and compile it into a real `CLAUDE.md` + `.claude/` surface, and your daimon will boot in its own identity.
+
+---
+
+When the hero says **`pandaimon play`**, read `.pandaimon/play.md` and execute its protocol. Until then, help as a general workspace assistant and point them to run `pandaimon play` first.
+
+*(This file is a stub. `pandaimon play` overwrites it with your compiled bootstrap.)*
